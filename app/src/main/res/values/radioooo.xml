@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opt4">
+        <item>None of the above</item>
+        <item>Application Page Interface</item>
+        <item>None of the above</item>
+        <item>onBackPressed method</item>
+        <item>Redhat</item>
+        <item>Active Virtual device</item>
+        <item>Cant say</item>
+        <item>None of the above</item>
+        <item>None of the above</item>
+        <item>Mobile devices</item>
+
+    </string-array>
+</resources>

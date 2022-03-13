@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="opt1">
+        <item>Android Phone Kit</item>
+        <item>Application Programming Interface</item>
+        <item>Android debug bridge</item>
+        <item>onClick() method</item>
+        <item>MAC</item>
+        <item>Android Virtual device</item>
+        <item>Yes</item>
+        <item>android class</item>
+        <item>JVM</item>
+        <item>Servers</item>
+
+    </string-array>
+</resources>

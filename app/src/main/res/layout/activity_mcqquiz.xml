@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:weightSum="8"
+    tools:context=".Mcqquiz">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <TextView
+            android:id="@+id/text_View6"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="20dp"
+            android:text="XX/"
+            android:textAlignment="viewEnd"
+            android:textColor="#000000"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/text_View7"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="20dp"
+            android:text="YY"
+            android:textColor="#000000"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:orientation="vertical"
+        android:weightSum="6">
+        <TextView
+            android:id="@+id/text_View8"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_weight="1"
+            android:height="0dp"
+            android:gravity="center"
+            android:text="QUESTIONS:"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:background="#635353">
+            <RadioButton
+                android:id="@+id/radio_Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:text="RadioButton"
+                android:checked="false"
+                android:textColor="#F377E8C8"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+            <RadioButton
+                android:id="@+id/radio_Button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:text="RadioButton"
+                android:textColor="#F377E8C8"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+            <RadioButton
+                android:id="@+id/radio_Button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:checked="false"
+                android:layout_weight="1"
+                android:text="RadioButton"
+                android:textColor="#F377E8C8"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+            <RadioButton
+                android:id="@+id/radio_Button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:text="RadioButton"
+                android:checked="false"
+                android:textColor="#F377E8C8"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#88514B4B"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <ImageView
+            android:id="@+id/image_View"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/button_5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="SUBMIT"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</LinearLayout>

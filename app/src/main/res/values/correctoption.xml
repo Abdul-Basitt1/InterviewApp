@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mcq_option">
+        <item>Android Package Kit</item>
+        <item>Application Programming Interface</item>
+        <item>Android debug bridge</item>
+        <item>onBackPressed() method</item>
+        <item>Linux</item>
+        <item>Android Virtual device</item>
+        <item>Yes</item>
+        <item>A single screen in an application with supporting java code</item>
+        <item>Dalvik virtual machine</item>
+        <item>Mobile devices</item>
+    </string-array>
+</resources>

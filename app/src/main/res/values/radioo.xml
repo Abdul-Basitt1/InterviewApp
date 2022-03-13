@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opt2">
+        <item>Android Page Kit</item>
+        <item>Android Programming Interface</item>
+        <item>Android delete bridge</item>
+        <item>onCreate() method</item>
+        <item>Windows</item>
+        <item>Android Virtual display</item>
+        <item>No</item>
+        <item>android package</item>
+        <item>Dalvik virtual machine</item>
+        <item>Desktops</item>
+
+    </string-array>
+</resources>

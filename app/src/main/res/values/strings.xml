@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">splashh</string>
+    <string-array name="questions">
+        <item>What is Android?</item>
+        <item>What id the google android SDK?</item>
+        <item>What is the use of an activityCreator?</item>
+        <item>Describe Activities.</item>
+        <item>What is the importance of having an emulator within the Android environment?</item>
+        <item>What are Intents?</item>
+        <item>What is the importance of XML-based layouts?</item>
+        <item>What is Orientation?</item>
+        <item>What is ANR?</item>
+        <item>What is the AndroidManifest.xml?</item>
+    </string-array>
+</resources>
+

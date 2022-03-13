@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mcq_question">
+        <item>APK stands for</item>
+        <item>What does API stand for?</item>
+        <item>ADB stands for</item>
+        <item>Which of the following is not an activity lifecycle callback method?</item>
+        <item>Which of the following kernel is used in Android?</item>
+        <item>We require an AVD to create an emulator. What does AVD stand for?</item>
+        <item>Does android support other languages than java?</item>
+        <item>What is an activity in android?</item>
+        <item>Which of the following virtual machine is used by the Android operating system?</item>
+        <item>For which of the following Android is mainly developed?</item>
+    </string-array>
+
+</resources>

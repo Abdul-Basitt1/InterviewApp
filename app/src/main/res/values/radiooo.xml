@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opt3">
+        <item>Android Package Kit</item>
+        <item>Android Page Interface</item>
+        <item>Android destroy bridge</item>
+        <item>onStart method</item>
+        <item>Linux</item>
+        <item>Active Virtual display</item>
+        <item>May be</item>
+        <item>A single screen in an application with supporting java code</item>
+        <item>Simple virtual machine</item>
+        <item>Laptops</item>
+    </string-array>
+</resources>
