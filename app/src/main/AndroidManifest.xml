@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Splashh">
-
+        <activity
+            android:name=".result_tf"
+            android:exported="false" />
+        <activity
+            android:name=".truefalse"
+            android:exported="false" />
+        <activity
+            android:name=".resultmcq"
+            android:exported="false" />
         <activity
             android:name=".Mcqquiz"
             android:exported="false" />
@@ -19,7 +27,6 @@
         <activity
             android:name=".MainActivity2"
             android:exported="false" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -9,6 +9,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
+    ImageView iv;
+    Animation anm;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
             }
         },4000);
 
-        ImageView iv = findViewById(R.id.imageView2);
-        Animation anm = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.buffer);
+        iv = findViewById(R.id.imageView_2);
+        anm = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.buffer);
         iv.startAnimation(anm);
     }
 }

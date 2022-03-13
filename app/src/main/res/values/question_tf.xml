@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questionstf">
+        <item>IME stands for Input Method Editor.</item>
+        <item>Using px is better than dp</item>
+        <item>ADB stands for Android debug bridge</item>
+        <item>You cannot change the button properties</item>
+        <item>Logcat is not important</item>
+
+    </string-array>
+</resources>
